@@ -1,5 +1,5 @@
 {
-  "name": "mews/purifier",
+  "name": "bayubiz752/purifier",
   "type": "package",
   "description": "Laravel 5/6/7/8/9 HtmlPurifier Package",
   "keywords": ["Laravel HtmlPurifier", "Laravel Purifier", "Laravel Security", "HtmlPurifier", "Purifier", "security", "xss"],
@@ -7,9 +7,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Muharrem ERİN",
-      "email": "me@mewebstudio.com",
-      "homepage": "https://github.com/mewebstudio",
+      "name": "Bayu Biz752",
+      "email": "bayu@biz752.com",
+      "homepage": "https://biz752.com",
       "role": "Developer"
     }
   ],
